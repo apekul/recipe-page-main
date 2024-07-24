@@ -4,7 +4,7 @@
 
 ## Demo
 
-- [Demo URL](https://apekul.github.io/rest-countries-api/)
+- [Demo URL](https://apekul.github.io/recipe-page-main/)
 
 
 
